@@ -1,0 +1,15 @@
+#include<math.h>
+#include<stdio.h>
+int main()
+{
+     double a,b,c,discriminant,root1,root2,realpart,imagpart;
+    printf("enter coeffficients a,b,and c:");
+    scanf("%lf%lf%lf",&a,&b,&c);
+    discriminat=b*b-4*a*c;
+    if(discriminat>0)
+    {
+        printf("\n the roots are real and distinct,they are \");
+        root1=(-b+sqrt(discriminant))/(2*azz
+
+
+
